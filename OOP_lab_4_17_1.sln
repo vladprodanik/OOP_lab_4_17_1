@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_lab_4_17_1", "OOP_lab_4_17_1\OOP_lab_4_17_1.csproj", "{49158A50-1127-4C99-9C8A-298EDA104D9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_lab_4_17_1", "OOP_lab_4_17_1\OOP_lab_4_17_1.csproj", "{49158A50-1127-4C99-9C8A-298EDA104D9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{1E4D9693-5254-4B17-A214-63393E2C95B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{1E4D9693-5254-4B17-A214-63393E2C95B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{347BAAC8-CFC3-4388-A404-8A48EC5F8AA9}"
+	ProjectSection(SolutionItems) = preProject
+		.travis.yml = .travis.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
